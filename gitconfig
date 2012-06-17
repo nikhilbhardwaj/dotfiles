@@ -1,0 +1,9 @@
+[user]
+	name = Nikhil Bhardwaj
+	email = root@NikhilBhardwaj.in
+[core]
+	editor = mvim -f
+[alias]
+	co = checkout
+	ci = commit
+	st = status

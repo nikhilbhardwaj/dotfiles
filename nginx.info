@@ -1,3 +1,0 @@
-#Start Stop 
-nginx # I have configured it to start by default
-nginx -s stop
