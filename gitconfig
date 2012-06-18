@@ -3,6 +3,7 @@
 	email = root@NikhilBhardwaj.in
 [core]
 	editor = mvim -f
+	excludesfile = /Users/nikhil/.gitignore.global
 [alias]
 	co = checkout
 	ci = commit

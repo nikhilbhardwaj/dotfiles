@@ -1,5 +1,5 @@
 # Add stuff to the path
-export PATH=.:~/bin:$PATH
+export PATH=.:~/bin:$PATH:/usr/local/sbin
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function
 
